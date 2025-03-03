@@ -24,6 +24,6 @@ if (numeroPonto >= 100) {
     alert('Que pena, você perdeu! :( Mais sorte na próxima vez!');
 }
 
-let saldo = 500;
+let saldo = 400;
 alert(` ${nome}, o saldo da sua conta é ${saldo}.`);
 
